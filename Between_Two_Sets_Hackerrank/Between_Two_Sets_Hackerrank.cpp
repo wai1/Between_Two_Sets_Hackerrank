@@ -1,4 +1,4 @@
-/** 
+/*
 * Between_Two_Sets_Hackerrank.cpp 
 * Author: Walt Iddings
 * Date: 12/3/20
@@ -8,7 +8,7 @@
 * first array and the first element of the second array. It then determines  and 
 * counts which integers of the last step that are factors of the integers in the 2nd 
 * array. The instructions on HackerRank are in the ReadMe file.
-**/
+*/
 
 #include <iostream>
 #include <cmath>
